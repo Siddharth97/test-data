@@ -2,78 +2,54 @@
   {
     "id": 1,
     "name": "Leanne Graham",
-    "username": "Bret",
     "accountNumber": "1230",
     "initialBalance": "500",
-    "currentBalance": "500",
-    "currencyType": "CAD",
-    "transactionHistory": "" 
+    "currentBalance": "500", 
   },
   {
     "id": 777,
     "name": "Stewie Griffin",
-    "username": "Stewie",
     "accountNumber": "1234",
     "initialBalance": "100",
-    "currentBalance": "100",
-    "currencyType": "CAD",
-    "transactionHistory": "" 
+    "currentBalance": "100", 
   },
   {
     "id": 504,
     "name": "Glen Quagmire",
-    "username": "Glen",
     "accountNumber": "2001",
     "initialBalance": "35000",
     "currentBalance": "500",
-    "currencyType": "CAD",
-    "transactionHistory": "" 
   },{
     "id": 4,
     "name": "Peter Griffin",
-    "username": "Peter",
     "accountNumber": "2002",
     "initialBalance": "2500",
     "currentBalance": "500",
-    "currencyType": "CAD",
-    "transactionHistory": "" 
   },{
     "id": 5,
     "name": "Joe Swanson",
-    "username": "Joe",
     "accountNumber": "2003",
     "initialBalance": "500",
     "currentBalance": "500",
-    "currencyType": "CAD",
-    "transactionHistory": "" 
   },{
     "id": 6,
     "name": "Gandalf Grey",
-    "username": "Gandalf",
     "accountNumber": "2004",
     "initialBalance": "1500",
     "currentBalance": "1500",
-    "currencyType": "CAD",
-    "transactionHistory": "" 
   },{
     "id": 7,
     "name": "Frodo Baggins",
-    "username": "Frodo",
     "accountNumber": "2005",
     "initialBalance": "500",
     "currentBalance": "500",
-    "currencyType": "CAD",
-    "transactionHistory": "" 
   },
   {
     "id": 8,
     "name": "Isaac Newton",
-    "username": "Issac",
     "accountNumber": "2006",
     "initialBalance": "500",
     "currentBalance": "500",
-    "currencyType": "CAD",
-    "transactionHistory": "" 
   }]
 
   
